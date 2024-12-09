@@ -1,0 +1,11 @@
+Model,Accuracy,loss,f1-score,file class scores,Epochs,Batch Size,Optimizer,learning rate
+model 2_2_3,0.6855555772781372,0.9133695960044861,./results/f1_scores/model_2_2_3_f1_scores.csv,10,32,Adam,0.001
+model 2_2_4,0.5729629397392273,1.1960177421569824,./results/f1_scores/model_2_2_4_f1_scores.csv,20,32,Adam,0.0001
+model 2_2_5,0.6007998585700989,1.1129369735717773,./results/f1_scores/model_2_2_5_f1_scores.csv,20,32,Adam,0.0001
+model 2_2_6,0.5922559499740601,1.1564123630523682,./results/f1_scores/model_2_2_6_f1_scores.csv,20,64,Adam,0.0001
+model 2_2_6,0.5922559499740601,1.1564122438430786,./results/f1_scores/model_2_2_6_f1_scores.csv,20,64,Adam,0.0001
+model 2_3_1,0.7002363204956055,0.8512220978736877,./results/f1_scores/model_2_3_1_f1_scores.csv,20,64,Adam,0.0001
+model 2_3_2,0.8440283536911011,0.4232511818408966,./results/f1_scores/model_2_3_2_f1_scores.csv,20,64,Adam,0.0001
+model 2_4_1,0.6800000071525574,1.0217009782791138,results/f1_scores/model_2_4_1_f1_scores.csv,20,32,Adam,0.0001
+model 2_4_2,0.7474074363708496,0.7929261326789856,results/f1_scores/model_2_4_2_f1_scores.csv,28,32,Adam,1e-05
+model 2_4_3,0.7407407164573669,0.9062173366546631,results/f1_scores/model_2_4_3_f1_scores.csv,30,32,Adam,0.0001
